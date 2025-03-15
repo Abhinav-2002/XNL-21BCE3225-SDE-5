@@ -48,6 +48,10 @@ In case of any issues, rollback to the previous version using:
 2. Checkout to the previous commit.
 3. Restart the deployment with the previous version.
 
+### **Docker Running Containers**
+![Docker Status](docs/dockerimg.jpg)
+![Docker Status](docs/dockerrunning.jpg)
+
 ## 📜 Git Best Practices
 
 - Always work on a separate branch before merging into `main`.
